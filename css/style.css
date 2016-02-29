@@ -1,0 +1,11 @@
+#paint {
+    border: 1px solid black;
+    height: 300px;
+    width: 500px;
+};
+
+#palette {
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
