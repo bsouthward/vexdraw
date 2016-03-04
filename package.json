@@ -1,0 +1,7 @@
+{
+  "name":"vexdraw",
+  "version": "0.0.0",
+  "dependencies": {
+    "vextab": "2.0.11"
+  }
+}
